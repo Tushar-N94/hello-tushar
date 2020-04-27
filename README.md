@@ -1,5 +1,5 @@
 # hello-tushar
 Just learning GIT
 
-This tutorial , m doing for understanding the flow of git-hub repository.
-Thanks.
+Hey, this is karan from AEM . and want to know the flow of GITHUB. 
+Thanks .
